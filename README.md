@@ -109,6 +109,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240717_003.JPG" data-lightbox="abc"><img src="20240717_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240717_004.JPG" data-lightbox="abc"><img src="20240717_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240717_005.JPG" data-lightbox="abc"><img src="20240717_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WRxxIMXjz-Q?si=rLeUUHtknQuGKO41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <a href="20240717_006.JPG" data-lightbox="abc"><img src="20240717_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240717_007.JPG" data-lightbox="abc"><img src="20240717_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240717_008.JPG" data-lightbox="abc"><img src="20240717_008.JPG" alt="サンプル画像" width="900" /></a>
