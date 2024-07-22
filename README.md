@@ -104,8 +104,35 @@ background-color: rgba(0, 225, 0, 0.6);
 -->
 
 <h3><span class="white"><br>～～～7月17日、解体開始です～～～<br><br>
+<a href="20240717_001.JPG" data-lightbox="abc"><img src="20240717_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240717_002.JPG" data-lightbox="abc"><img src="20240717_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240717_003.JPG" data-lightbox="abc"><img src="20240717_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240717_004.JPG" data-lightbox="abc"><img src="20240717_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240717_005.JPG" data-lightbox="abc"><img src="20240717_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240717_006.JPG" data-lightbox="abc"><img src="20240717_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240717_007.JPG" data-lightbox="abc"><img src="20240717_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240717_008.JPG" data-lightbox="abc"><img src="20240717_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240717_009.JPG" data-lightbox="abc"><img src="20240717_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240717_010.JPG" data-lightbox="abc"><img src="20240717_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240717_011.JPG" data-lightbox="abc"><img src="20240717_011.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="white"><br>～～～7月18日、2日でかなり進んでます～～～<br><br>
+<a href="20240718_001.JPG" data-lightbox="abc"><img src="20240718_001.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="white"><br>～～～7月19日、3日で基礎だけになりました～～～<br><br>
+<a href="20240719_001.JPG" data-lightbox="abc"><img src="20240719_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240719_002.JPG" data-lightbox="abc"><img src="20240719_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240719_003.JPG" data-lightbox="abc"><img src="20240719_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240719_004.JPG" data-lightbox="abc"><img src="20240719_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240719_005.JPG" data-lightbox="abc"><img src="20240719_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white"><br>～～～7月20日、4日で基礎も無くなりました～～～<br><br>
+<a href="20240720_001.JPG" data-lightbox="abc"><img src="20240720_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240720_002.JPG" data-lightbox="abc"><img src="20240720_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white"><br>～～～7月21日、5日でかなりサッパリ～～～<br><br>
+<a href="20240721_001.JPG" data-lightbox="abc"><img src="20240721_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240721_002.JPG" data-lightbox="abc"><img src="20240721_002.JPG" alt="サンプル画像" width="900" /></a>
 
  
 
