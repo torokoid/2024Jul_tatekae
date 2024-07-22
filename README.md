@@ -140,7 +140,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="white"><br>～～～7月22日、解体作業もほぼ終盤です～～～<br><br></span></h3>
 <a href="20240722_001.JPG" data-lightbox="abc"><img src="20240722_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_002.JPG" data-lightbox="abc"><img src="20240722_002.JPG" alt="サンプル画像" width="900" /></a>
-
+<a href="20240722_003.JPG" data-lightbox="abc"><img src="20240722_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240722_004.JPG" data-lightbox="abc"><img src="20240722_004.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br>
 
