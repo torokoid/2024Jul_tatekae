@@ -98,7 +98,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/</marquee></p>
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2024年7月17日、お隣の家が建て替えになりました !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! 2024年7月17日、お隣の家が建て替えになりました !!!</marquee></span></h2>
 <!--
 <div id="wrap">
 -->
