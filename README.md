@@ -1,4 +1,4 @@
-# 2024Jun_kaitai
+# 2024Jul_kaitai
 
 <html lang="ja">
  <head>
@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/20240630_flower/20240630_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/20240717Jul_kaitai/20240721_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -91,35 +91,21 @@ background-color: rgba(0, 225, 0, 0.6);
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
-<p align="left"> <span class="yellow">&nbsp;梅雨時のお花はしっとり満開！</span></p>
+<p align="left"> <span class="yellow">&nbsp;お隣の家が建て替え！</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
-<p align="left"> <img src="flower3.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="kaitai.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/</marquee></p>
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2024年6月30日、公園のお花たちがしっとりと満開 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2024年7月17日、お隣の家が建て替えになりました !!!</marquee></span></h2>
 <!--
 <div id="wrap">
 -->
 
-<h3><span class="white"><br>～～～公園の前のお宅のおばあちゃん、雨でも元気にお手入れしてます～～～<br><br>
+<h3><span class="white"><br>～～～7月17日、解体開始です～～～<br><br>
 
-<a href="20240630_001.JPG" data-lightbox="abc"><img src="20240630_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_002.JPG" data-lightbox="abc"><img src="20240630_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_003.JPG" data-lightbox="abc"><img src="20240630_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_004.JPG" data-lightbox="abc"><img src="20240630_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_005.JPG" data-lightbox="abc"><img src="20240630_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_006.JPG" data-lightbox="abc"><img src="20240630_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_007.JPG" data-lightbox="abc"><img src="20240630_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_008.JPG" data-lightbox="abc"><img src="20240630_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_009.JPG" data-lightbox="abc"><img src="20240630_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_010.JPG" data-lightbox="abc"><img src="20240630_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_011.JPG" data-lightbox="abc"><img src="20240630_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_012.JPG" data-lightbox="abc"><img src="20240630_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_013.JPG" data-lightbox="abc"><img src="20240630_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_014.JPG" data-lightbox="abc"><img src="20240630_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240630_015.JPG" data-lightbox="abc"><img src="20240630_015.JPG" alt="サンプル画像" width="900" /></a>
+
 
  
 
@@ -148,5 +134,5 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <!-- フッタ -->
  <footer>
- <span class="white">Copyright 2024/Jun/30</span>
+ <span class="white">Copyright 2024/Jul/22 S.Hada</span>
  </footer>
