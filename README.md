@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024Jul_kaitai/20240721_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024Jul_tatekae/20240721_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -97,7 +97,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <p align="left"> <img src="kaitai.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/</marquee></p>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="left">!!! 2024年7月17日、お隣の家が建て替えになりました !!!</marquee></span></h2>
 <!--
 <div id="wrap">
