@@ -103,7 +103,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <div id="wrap">
 -->
 
-<h3><span class="yellow"><br>～～～7月17日、解体開始です～～～<br><br></span></h3>
+<span class="yellow"><br>～～～7月17日、解体開始です～～～<br><br></span>
 <a href="20240717_001.JPG" data-lightbox="abc"><img src="20240717_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240717_002.JPG" data-lightbox="abc"><img src="20240717_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240717_003.JPG" data-lightbox="abc"><img src="20240717_003.JPG" alt="サンプル画像" width="900" /></a>
