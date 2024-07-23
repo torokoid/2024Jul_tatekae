@@ -103,7 +103,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <div id="wrap">
 -->
 
-<h3><span class="white"><br>～～～7月17日、解体開始です～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月17日、解体開始です～～～<br><br></span></h3>
 <a href="20240717_001.JPG" data-lightbox="abc"><img src="20240717_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240717_002.JPG" data-lightbox="abc"><img src="20240717_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240717_003.JPG" data-lightbox="abc"><img src="20240717_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -119,25 +119,25 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240717_010.JPG" data-lightbox="abc"><img src="20240717_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240717_011.JPG" data-lightbox="abc"><img src="20240717_011.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～7月18日、2日でかなり進んでます～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月18日、2日でかなり進んでます～～～<br><br></span></h3>
 <a href="20240718_001.JPG" data-lightbox="abc"><img src="20240718_001.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～7月19日、3日で基礎だけになりました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月19日、3日で基礎だけになりました～～～<br><br></span></h3>
 <a href="20240719_001.JPG" data-lightbox="abc"><img src="20240719_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240719_002.JPG" data-lightbox="abc"><img src="20240719_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240719_003.JPG" data-lightbox="abc"><img src="20240719_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240719_004.JPG" data-lightbox="abc"><img src="20240719_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240719_005.JPG" data-lightbox="abc"><img src="20240719_005.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～7月20日、4日で基礎も無くなりました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月20日、4日で基礎も無くなりました～～～<br><br></span></h3>
 <a href="20240720_001.JPG" data-lightbox="abc"><img src="20240720_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240720_002.JPG" data-lightbox="abc"><img src="20240720_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～7月21日、5日でかなりサッパリ～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月21日、5日でかなりサッパリ～～～<br><br></span></h3>
 <a href="20240721_001.JPG" data-lightbox="abc"><img src="20240721_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240721_002.JPG" data-lightbox="abc"><img src="20240721_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～7月22日、解体作業もほぼ終盤です～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月22日、解体作業もほぼ終盤です～～～<br><br></span></h3>
 <a href="20240722_001.JPG" data-lightbox="abc"><img src="20240722_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_002.JPG" data-lightbox="abc"><img src="20240722_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_003.JPG" data-lightbox="abc"><img src="20240722_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -148,7 +148,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240722_008.JPG" data-lightbox="abc"><img src="20240722_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_009.JPG" data-lightbox="abc"><img src="20240722_009.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～7月23日、花壇を支える大谷石の塀を撤去します<br>花壇の土が固まってていい具合に残ってますね～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月23日、花壇を支える大谷石の塀を撤去します<br>花壇の土が固まってていい具合に残ってますね～～～<br><br></span></h3>
 <a href="20240723_001.JPG" data-lightbox="abc"><img src="20240723_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_002.JPG" data-lightbox="abc"><img src="20240723_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_003.JPG" data-lightbox="abc"><img src="20240723_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -156,7 +156,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_005.JPG" data-lightbox="abc"><img src="20240723_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_006.JPG" data-lightbox="abc"><img src="20240723_006.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月23日、午後の作業で花壇の土が崩れないように、土で支えてくれました～～～<br><br></span></h3>
 <a href="20240723_123.JPG" data-lightbox="abc"><img src="20240723_123.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_124.JPG" data-lightbox="abc"><img src="20240723_124.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_125.JPG" data-lightbox="abc"><img src="20240723_125.JPG" alt="サンプル画像" width="900" /></a>
