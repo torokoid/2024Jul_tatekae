@@ -154,6 +154,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_003.JPG" data-lightbox="abc"><img src="20240723_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_004.JPG" data-lightbox="abc"><img src="20240723_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_005.JPG" data-lightbox="abc"><img src="20240723_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_006.JPG" data-lightbox="abc"><img src="20240723_006.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br>
 
