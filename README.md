@@ -148,6 +148,13 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240722_008.JPG" data-lightbox="abc"><img src="20240722_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_009.JPG" data-lightbox="abc"><img src="20240722_009.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="white"><br>～～～7月23日、花壇を支える大谷石の塀を撤去します<br>花壇の土が固まってていい具合に残ってますね～～～<br><br></span></h3>
+<a href="20240723_001.JPG" data-lightbox="abc"><img src="20240723_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_002.JPG" data-lightbox="abc"><img src="20240723_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_003.JPG" data-lightbox="abc"><img src="20240723_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_004.JPG" data-lightbox="abc"><img src="20240723_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_005.JPG" data-lightbox="abc"><img src="20240723_005.JPG" alt="サンプル画像" width="900" /></a>
+
 <br><br><br><br><br><br>
 
 
