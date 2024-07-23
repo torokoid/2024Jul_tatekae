@@ -160,8 +160,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_123.JPG" data-lightbox="abc"><img src="20240723_123.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_124.JPG" data-lightbox="abc"><img src="20240723_124.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_125.JPG" data-lightbox="abc"><img src="20240723_125.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240723_126.JPG" data-lightbox="abc"><img src="20240723_126.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_127.JPG" data-lightbox="abc"><img src="20240723_127.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240723_126.JPG" data-lightbox="abc"><img src="20240723_126.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br>
 
