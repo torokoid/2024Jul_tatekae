@@ -163,6 +163,12 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240723_127.JPG" data-lightbox="abc"><img src="20240723_127.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240723_126.JPG" data-lightbox="abc"><img src="20240723_126.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～7月24日、レンガとコンクリートが剥がされて、地面だけになりました～～～<br><br></span></h3>
+<a href="20240724_149.JPG" data-lightbox="abc"><img src="20240724_149.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_150.JPG" data-lightbox="abc"><img src="20240724_150.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_151.JPG" data-lightbox="abc"><img src="20240724_151.JPG" alt="サンプル画像" width="900" /></a>
+
+
 <br><br><br><br><br><br>
 
 
