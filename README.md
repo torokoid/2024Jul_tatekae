@@ -168,6 +168,19 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240724_150.JPG" data-lightbox="abc"><img src="20240724_150.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240724_151.JPG" data-lightbox="abc"><img src="20240724_151.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～7月25日、午前中でほぼ整地が終わりました～～～<br><br></span></h3>
+<a href="20240725_201.JPG" data-lightbox="abc"><img src="20240725_201.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_202.JPG" data-lightbox="abc"><img src="20240725_202.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_203.JPG" data-lightbox="abc"><img src="20240725_203.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_204.JPG" data-lightbox="abc"><img src="20240725_204.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_205.JPG" data-lightbox="abc"><img src="20240725_205.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～7月25日、最後に仕上げて、解体作業完了です～～～<br><br></span></h3>
+<a href="20240725_206.JPG" data-lightbox="abc"><img src="20240725_206.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_207.JPG" data-lightbox="abc"><img src="20240725_207.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_208.JPG" data-lightbox="abc"><img src="20240725_208.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240725_209.JPG" data-lightbox="abc"><img src="20240725_209.JPG" alt="サンプル画像" width="900" /></a>
+
 
 <br><br><br><br><br><br>
 
