@@ -91,11 +91,11 @@ background-color: rgba(0, 225, 0, 0.6);
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
-<br><br><br><br><br>
+<p align="left"> <span class="yellow">&nbsp;お隣の家が建て替え！</span></p>
 
 <p><a>建て替え_1</a>><a href="https://torokoid.github.io/2024Jul_tatekae2/" target="_blank">建て替え_2</a></p>
 
-<p align="left"> <span class="yellow">&nbsp;お隣の家が建て替え！</span></p>
+
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
 <p align="left"> <img src="kaitai.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
